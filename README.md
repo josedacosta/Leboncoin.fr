@@ -1,7 +1,7 @@
 # Leboncoin.fr
 Bonjour,
 
-je vous prpose ici une librairie PHP Composer
+une lib PHP Composer
 
 pour :
 - poster et reposter des annoces automatiquement
