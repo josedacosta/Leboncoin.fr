@@ -5,8 +5,8 @@ je vous prpose ici une librairie PHP Composer
 
 pour :
 - poster des annoces
-- extraire des données du site
-- programmer des alertes
+- extraire les données du site (la totalité des données visibles)
+- programmer des alertes (par simple copier coller d'url de recherche)
 - statistiques
 
 le code source : 500 euros
