@@ -4,7 +4,7 @@ Bonjour,
 je vous prpose ici une librairie PHP Composer
 
 pour :
-- poster des annoces
+- poster et reposter des annoces automatiquement
 - extraire les données du site (la totalité des données visibles)
 - programmer des alertes (par simple copier coller d'url de recherche)
 - statistiques
