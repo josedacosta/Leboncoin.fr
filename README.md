@@ -9,8 +9,6 @@ pour :
 - programmer des alertes (par simple copier coller d'url de recherche)
 - statistiques
 
-le code source : 500 euros
-
 pour des extractions de données : contactez moi par mail
 
 merci
