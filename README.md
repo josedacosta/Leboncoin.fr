@@ -10,6 +10,7 @@ pour :
 - statistiques
 
 le code source : 500 euros
-pour des extractions de données : 200 euros
+
+pour des extractions de données : contactez moi par mail
 
 merci
